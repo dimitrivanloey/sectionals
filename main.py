@@ -2,17 +2,17 @@ import pandas as pd
 import numpy as np
 import pdfkit
 
-VENUE = 'haydock'
+VENUE = 'warwick'
 
-DAY = '24'
+DAY = '30'
 MONTH = '03'
 YEAR = '2021'
-HOUR = '15'
-MIN = '12'
+HOUR = '16'
+MIN = '45'
 
-FILE = f'HAY_{DAY}{MONTH}_{HOUR}{MIN}.xlsx'
+FILE = f'WAR_{DAY}{MONTH}_{HOUR}{MIN}.xlsx'
 
-TITLE = "3m 4f 97y Tim Molony Handicap Chase"
+TITLE = "2m 4f 0y Air Wedding Open Hunters' Chase"
 DATE = f'{DAY}th March 2021'
 TIME = f'{HOUR}:{MIN}'
 
